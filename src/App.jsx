@@ -1,7 +1,7 @@
 import Navbar from "./components/Navbar";
 import Hero from "./pages/Hero";
 import About from "./pages/About";
-// import HomePage from "./pages/HomePage.Jsx";
+import Skill from "./pages/Skill";
 // import Footer from "./components/Footer";
 function App() {
 
@@ -13,6 +13,7 @@ function App() {
       {/* content */}
       <Hero />
       <About />
+      <Skill />
       
       {/* footer */}
    </div>
